@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Linar
+- 👋  Hi, I’m Linar
 -  I’m currently learning Flutter
-- 📫 glinar94@mail.ru
+- 📫  http://t.me/glin94
 
 <!---
 glin94/glin94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
