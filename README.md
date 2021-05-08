@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Linar
 -  I’m currently learning Flutter
-- 📫 How to reach me glinar94@mail.ru
+- 📫 glinar94@mail.ru
 
 <!---
 glin94/glin94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
