@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Linar
--  I’m currently learning Flutter
+-  I’m Flutter Developer
 - 📫  https://t.me/glinar94
 
 <!---
